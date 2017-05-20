@@ -1,4 +1,8 @@
-// HW6 by Yawo Alphonse Siatitse
+/*by Yawo Alphonse Siatitse
+University of Rochester '20
+*/
+
+
 
 #include <stdio.h> //Standard Library
 #include <stdlib.h>
